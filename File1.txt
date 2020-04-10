@@ -21,9 +21,17 @@ T1
 T2
 T3
 <<<<<<< HEAD
+<<<<<<< HEAD
 OOOPS
 =======
 OOOPS
 MMM
 FFFFAUR
 >>>>>>> FFFFAUR
+=======
+OOOPS
+MMM
+FFFFAUR
+OursVsTheirs
+Samoa
+>>>>>>> 7a07f3775020d74858b45f3af313e2f02da6cf55
