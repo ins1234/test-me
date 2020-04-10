@@ -20,4 +20,10 @@ Z2
 T1
 T2
 T3
+<<<<<<< HEAD
 OOOPS
+=======
+OOOPS
+MMM
+FFFFAUR
+>>>>>>> FFFFAUR
