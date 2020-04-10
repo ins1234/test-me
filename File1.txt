@@ -25,3 +25,5 @@ MMM
 FFFFAUR
 OursVsTheirs
 Samoa
+OursVsTheirs
+OursTheirs
