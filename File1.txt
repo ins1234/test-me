@@ -1,5 +1,3 @@
-TEst
-blink=400
 Line1
 Line9
 Line8
